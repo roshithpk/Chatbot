@@ -1,6 +1,5 @@
-
 streamlit
+pdfplumber
 faiss-cpu
 sentence-transformers
-pdfplumber
 requests
